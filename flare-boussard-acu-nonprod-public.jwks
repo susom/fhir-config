@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+    "alg": "RS384",
+    "e": "AQAB",
+    "kid": "FLARE Boussard ACU 20251202",
+    "kty": "RSA",
+    "n": "zjlpDNZODEr7BATdI60z15v_sJmn40JaU92rdO925xYvHS8nR46p0GeDdldpwg9WvMjfGxoumFsGwq_ui7W3lLesHHxjz6z5GwpkJiOCk81nE61BrXjUprJJ0jZhNEGem7MRC8SmqNTe_57FZw7kg4tJ64vvxfL-pUF38zLcEg7-bLbpLmd5vA9GP7wd3k3G9kMp333iUbUWNqTDn_4SU32Siq_40Iqrayh1YCegr8mr531QUL8QSKkv4zuSXKvN45kYhaTbw7IZSnUFOqlei2DwEnPGBAzROBnbJe99GCPIjWitNVbobJp7Wx61qMOnyobV6MeEWd6vl4zFEqdATw"
+     }
+  ]
+}
