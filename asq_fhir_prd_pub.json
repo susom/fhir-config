@@ -1,0 +1,8 @@
+{
+  "alg": "RS384",
+  "e": "AQAB",
+  "kid": "epic-prod-2026-06",
+  "kty": "RSA",
+  "n": "0Nue3eTfMycOF2Wua8L80pOq1Utwn3AmkikYgguZDGM8m4FBLpy3ru7aydj-Gk7jbDFhtKVJAgl3F0CgSzN7Ik6Suk93HJkUkEDR9GTbGsAf0UFPziirsapkUpIaFg0S0tv0rzqvONK7U1Ic-xT5iZEf4asFmhRa3zx54eEZEntyjtZweV5d4qzRzMG993OyUSr2ghFDYH-378ougvF9OsKwla7lAWSXPYc3RYPUmVy2ZasudESOXy4CqaxuhJZk812PaFS1i8EWw-pVeUak3_y0ELw09InaM-hH7jde58rW8-KFpOksIH2PtXBLzqd-khprWiiOWd2wqQj-luXtfGQu_UWP_ZEDgvTg8ja_YPpXk7HFl0dHLnixJYOS5-HXLipENGYIiJywxn-LiuFWfPysONKq1xwHCMIq00gCptz2JfGMb_0Zq_Fsdary187hqcwQ-AV3-PlvfEX_UxbM9rsoOHwcSdgiIJ7X0oephDKI68KtE8ytg_IS-FkT3W59",
+  "use": "sig"
+}
